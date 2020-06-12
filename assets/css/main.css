@@ -88,6 +88,8 @@ video {
     color: black;
 }
 
+
+/* 
 li {
     margin: 0;
     padding: 0;
@@ -96,7 +98,7 @@ li {
     font: inherit;
     vertical-align: baseline;
     color: white;
-}
+} */
 
 #main {
     /* background-color: #161616; */
@@ -2068,6 +2070,7 @@ ul.labeled-icons li {
     margin: 1.5em 0 0 0;
     padding-left: 2.25em;
     position: relative;
+    color: #b2b2b2;
 }
 
 ul.labeled-icons li:first-child {
@@ -2939,6 +2942,7 @@ body.is-touch .poptrox-popup .closer {
         line-height: 2.25em;
         margin-left: 0;
         padding-left: 0;
+        color: white;
     }
     /* Main */
     #main {
